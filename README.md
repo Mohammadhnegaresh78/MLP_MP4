@@ -88,7 +88,7 @@ Setup Instructions
 Clone the Repository
 Clone the repository to your local machine using the following command:
 
-git clone https://github.com/alirezarezaeei78/machine-learning-course.git
+git clone https://github.com/Mohammadhnegaresh78/MachineLearning.git
 cd machine-learning-course
 Install Required Packages
 Install the required Python packages using pip:
